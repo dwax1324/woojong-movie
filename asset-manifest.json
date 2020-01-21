@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/woojong-movie/static/css/main.ead16241.chunk.css",
+    "main.js": "/woojong-movie/static/js/main.eca7328a.chunk.js",
+    "main.js.map": "/woojong-movie/static/js/main.eca7328a.chunk.js.map",
+    "runtime-main.js": "/woojong-movie/static/js/runtime-main.5ad74f16.js",
+    "runtime-main.js.map": "/woojong-movie/static/js/runtime-main.5ad74f16.js.map",
+    "static/js/2.c5a43ff7.chunk.js": "/woojong-movie/static/js/2.c5a43ff7.chunk.js",
+    "static/js/2.c5a43ff7.chunk.js.map": "/woojong-movie/static/js/2.c5a43ff7.chunk.js.map",
+    "index.html": "/woojong-movie/index.html",
+    "precache-manifest.4d682ad4bb822a993f02ebe7aae1ba40.js": "/woojong-movie/precache-manifest.4d682ad4bb822a993f02ebe7aae1ba40.js",
+    "service-worker.js": "/woojong-movie/service-worker.js",
+    "static/css/main.ead16241.chunk.css.map": "/woojong-movie/static/css/main.ead16241.chunk.css.map",
+    "static/js/2.c5a43ff7.chunk.js.LICENSE": "/woojong-movie/static/js/2.c5a43ff7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ad74f16.js",
+    "static/js/2.c5a43ff7.chunk.js",
+    "static/css/main.ead16241.chunk.css",
+    "static/js/main.eca7328a.chunk.js"
+  ]
+}
