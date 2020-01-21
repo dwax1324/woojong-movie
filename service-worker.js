@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/woojong-movie/precache-manifest.4d682ad4bb822a993f02ebe7aae1ba40.js"
+  "/woojong-movie/precache-manifest.4d7762bb077fa6c32bdd43727aebd33e.js"
 );
 
 self.addEventListener('message', (event) => {
